@@ -698,3 +698,23 @@ urllib3.exceptions.HeaderParsingError: [MissingHeaderBodySeparatorDefect()], unp
 2024-03-24 22:4632: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama A Comprehensive Safety Action Plan for Autauga, Chambers, Elmore, and Perry Counties/Safety Action Plan/FY23-SS4A_PDG-Awards-by-State_Oct2023.pdf saved
 2024-03-24 22:4632: INFO: grey_lit_search.utils: saving link to Safe street for all 2023/Safe Streets For All in Central Alabama A Comprehensive Safety Action Plan for Autauga, Chambers, Elmore, and Perry Counties/Safety Action Plan/002/website_link.txt
 2024-03-24 22:4632: INFO: grey_lit_search.utils: saving link to Safe street for all 2023/Safe Streets For All in Central Alabama A Comprehensive Safety Action Plan for Autauga, Chambers, Elmore, and Perry Counties/Safety Action Plan/003/website_link.txt
+2024-03-24 23:3204: INFO: grey_lit_search.google: Found 5 results, processing now
+2024-03-24 23:3204: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FFY2024STIP-5-MarAmendmentAPPROVED.pdf
+2024-03-24 23:3243: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FFY2024STIP-5-MarAmendmentAPPROVED.pdf saved
+2024-03-24 23:3243: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FY23-Alabama-Highway-Safety-Plan.pdf
+2024-03-24 23:3244: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FY23-Alabama-Highway-Safety-Plan.pdf saved
+2024-03-24 23:3244: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/AL-2023-SHMP-Final-Plan.pdf
+2024-03-24 23:3249: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/AL-2023-SHMP-Final-Plan.pdf saved
+2024-03-24 23:3249: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FFY2024STIP-5-MarAmendmentDRAFT.pdf
+2024-03-24 23:3338: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FFY2024STIP-5-MarAmendmentDRAFT.pdf saved
+2024-03-24 23:3338: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FCC-24-27A1.pdf
+2024-03-24 23:3341: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Narrative/FCC-24-27A1.pdf saved
+2024-03-24 23:3342: INFO: grey_lit_search.google: Found 4 results, processing now
+2024-03-24 23:3342: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Project Description/FY23-SS4A_PDG-Awards-by-State_Dec2023.pdf
+2024-03-24 23:3343: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Project Description/FY23-SS4A_PDG-Awards-by-State_Dec2023.pdf saved
+2024-03-24 23:3343: INFO: grey_lit_search.utils: saving link to Safe street for all 2023/Safe Streets For All in Central Alabama/Project Description/001/website_link.txt
+2024-03-24 23:3343: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Project Description/FY23-SS4A_PDG-Awards-by-State_Oct2023.pdf
+2024-03-24 23:3343: INFO: grey_lit_search.utils:     Safe street for all 2023/Safe Streets For All in Central Alabama/Project Description/FY23-SS4A_PDG-Awards-by-State_Oct2023.pdf saved
+2024-03-24 23:3343: INFO: grey_lit_search.utils: saving link to Safe street for all 2023/Safe Streets For All in Central Alabama/Project Description/003/website_link.txt
+2024-03-24 23:3344: INFO: grey_lit_search.google: Found 4 results, processing now
+2024-03-24 23:3344: INFO: grey_lit_search.utils: attempting to download Safe street for all 2023/Safe Streets For All in Central Alabama/Letter of Support/FFY2024STIP-5-MarAmendmentAPPROVED.pdf
